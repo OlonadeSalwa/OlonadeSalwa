@@ -1,14 +1,14 @@
 Hi there 👋, I'm Salwa Olonade!
 
-I'm a passionate Data Analyst and Customer Service Professional who started my career journey working with businesses in logistics, healthcare, and e-commerce sectors. Over time, I discovered my love for data, problem-solving, and delivering excellent customer experiences.
+I'm a passionate Data Analyst and Customer Service Professional who started my career journey working with businesses in logistics, healthcare, and manufacturing sector. Over time, I discovered my love for data, problem-solving, and delivering excellent customer experiences.
 
-I specialize in data cleaning, analysis, visualization, and reporting to help businesses make better, data-driven decisions. I'm also expanding my skills into machine learning and public health analytics to support better healthcare outcomes.
+I specialize in data cleaning, analysis, visualization, and reporting to help businesses make better, data-driven decisions. I'm also expanding my skills into machine learning and operation analytics to support the manufacturing sector.
 
 Alongside my work in data analytics, I've honed my skills in customer service, operations management, and administrative support. I am constantly learning and recently completed certifications in Data Analytics, Virtual Assistance, and Customer Service Support.
 
 I love solving problems with data, simplifying operations, and building better customer journeys.
 
-💬 Ask me anything about Data Analysis, Data Visualization, Customer Service, or Public Health Data!
+💬 Ask me anything about Data Analysis, Data Visualization, Customer Service, or Manufacturing Operations!
 
 📩 How to reach me: salwaolonade@gmail.com
 
